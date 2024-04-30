@@ -12,10 +12,10 @@ Este programa es una aplicación de consola que permite convertir monedas en tie
 <b>Gson:<b> Biblioteca de Google para serialización y deserialización de objetos JSON.</p>
 <i>Ejemplo de Uso</i>
 
-<p>Ingrese la moneda que quiere convertir: USD
-Ingrese la moneda destino: EUR
-Ingrese el monto: 100
-Usted depositó: 100.0 USD
+<p>Ingrese la moneda que quiere convertir: USD<br>
+Ingrese la moneda destino: EUR<br>
+Ingrese el monto: 100<br>
+Usted depositó: 100.0 USD<br>
 y a cambio retiró: 85.74 EUR<p>
 <h3>Contribuciones</h3>
 <p>¡Las contribuciones son bienvenidas! Si deseas contribuir al proyecto, por favor abre un pull request con tus cambios propuestos.</p>
